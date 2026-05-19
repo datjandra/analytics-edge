@@ -171,9 +171,3 @@ By working through this repository, you will develop:
 
 - [Analytics Edge Course](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 - [MIT Sloan School of Management](https://mitsloan.mit.edu/)
-
----
-
-**Repository Created:** 2026  
-**Last Updated:** May 2026  
-**Primary Language:** R (100%)
